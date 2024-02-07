@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+}
+div{
+    min-height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+form,table,tr,td{
+    padding: 8px;
+}
+
+.form-heading{
+    text-align: center;
+}
+
+button{
+    margin-left: 80px;
+}
